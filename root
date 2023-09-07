@@ -24,4 +24,4 @@
 # For more information see the manual pages of crontab(5) and cron(8)
 # 
 # m h  dom mon dow   command
-53 13 * * 4 /home/shrinjit/Desktop/github1/update_clamav.sh
+53 13 * * 4 /home/rims/cron1/gitHub9/update_clamav.sh
